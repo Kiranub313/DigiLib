@@ -1,0 +1,9 @@
+.DS_Store
+
+cloud/application/cache/*
+!cloud/application/cache/index.html
+!cloud/application/cache/.htaccess
+
+cloud/application/logs/*
+!cloud/application/logs/index.html
+!cloud/application/logs/.htaccess
